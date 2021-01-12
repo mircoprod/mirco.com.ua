@@ -1,2 +1,6 @@
 # mirco.com.ua
-Mir &amp; Co Foundation website.
+Mir & Co Foundation website.
+
+Restored from wayback machine.
+
+Code should be updated and refactored.
