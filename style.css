@@ -11649,6 +11649,17 @@ theme. But don't modify style-main.css file.
 li.liqpay-form-button form {
   margin-bottom: 0 !important;
 }
+.donate-disclaimer {
+  max-width: 560px;
+  margin: 25px auto 0;
+  padding: 15px 20px;
+  background: #f5f7f8;
+  border-left: 3px solid #546e7a;
+  border-radius: 4px;
+  font-size: 13px;
+  color: #666;
+  text-align: left;
+}
 /*
 @Author: ThemeMascot
 @URL: http://ThemeMascot.com
