@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mirco.com.ua/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/index.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/index.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/sponsors.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/sponsors.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/sponsors.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/sponsors.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/sponsors.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/sponsors.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/press.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/press.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/press.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/press.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/press.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/press.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/requisites.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/requisites.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/requisites.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/requisites.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/requisites.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/requisites.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/contacts.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/contacts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/contacts.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/contacts.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/contacts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/contacts.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/donate.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/donate.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/donate.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/donate.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/donate.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/donate.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/uk/posts.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/posts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/posts.html"/>
+  </url>
+  <url>
+    <loc>https://mirco.com.ua/en/posts.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://mirco.com.ua/uk/posts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mirco.com.ua/en/posts.html"/>
+  </url>
+</urlset>
