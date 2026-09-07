@@ -11,6 +11,7 @@
     nav.classList.remove("is-open");
     if (scrim) scrim.classList.remove("is-open");
     if (toggle) toggle.setAttribute("aria-expanded", "false");
+    document.documentElement.classList.remove("nav-open");
   }
 
   function openNav() {
@@ -18,6 +19,7 @@
     nav.classList.add("is-open");
     if (scrim) scrim.classList.add("is-open");
     if (toggle) toggle.setAttribute("aria-expanded", "true");
+    document.documentElement.classList.add("nav-open");
   }
 
   if (toggle && nav) {
